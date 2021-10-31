@@ -1,7 +1,7 @@
 module.exports = {
   reactStrictMode: true,
   env: {
-    backendURL: "http://localhost:4000",
-    frontendURL: "http://localhost:3000",
+    backendURL: "https://grisly-goosebumps-74230.herokuapp.com",
+    frontendURL: "https://nodesend-nextjs-oovplhr6l-dieegopa.vercel.app",
   },
 };
